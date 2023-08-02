@@ -1,0 +1,15 @@
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\bin\Debug\net6.0\tasks.exe
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\bin\Debug\net6.0\tasks.deps.json
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\bin\Debug\net6.0\tasks.dll
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\bin\Debug\net6.0\tasks.pdb
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.dll
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\refint\tasks.dll
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.pdb
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+C:\Users\Софья\OneDrive\Рабочий стол\c#_seminar8\tasks\obj\Debug\net6.0\ref\tasks.dll
